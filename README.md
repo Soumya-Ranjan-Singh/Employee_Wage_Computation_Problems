@@ -1,0 +1,1 @@
+This repository contains all the Use Cases of Employee Wage Computation Program.
